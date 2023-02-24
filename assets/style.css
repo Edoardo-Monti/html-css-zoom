@@ -15,7 +15,7 @@ img{
 /* Main */
 main{
     background-color: rgb(20, 20, 20);
-    overflow: scroll
+    overflow: scroll;
 }
 
 #vh{
@@ -36,12 +36,13 @@ img{
     margin-bottom: 0.5%;
 }
 
+
 .wrap{
     flex-wrap: wrap;
 }
 
 .space-between{
-    justify-content: space-between;
+    justify-content:space-between;
 }
 
 .relative{
